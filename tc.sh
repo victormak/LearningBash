@@ -1,5 +1,6 @@
 #!/bin/bash
-ntpdate-debian
+i want to merge
 echo `date`
 echo "hedhded"
+this is defferent
 echo "sssssssss"
