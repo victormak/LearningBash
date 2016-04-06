@@ -1,4 +1,5 @@
 #!/bin/bash
 ntpdate-debian
 echo `date`
-echo "hehe"
+echo "hedhded"
+echo "sssssssss"
